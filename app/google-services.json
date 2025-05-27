@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704340883944",
+    "project_id": "plavejs-8c577",
+    "storage_bucket": "plavejs-8c577.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704340883944:android:efc825ead2314de4380c5d",
+        "android_client_info": {
+          "package_name": "com.example.plavejs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcdos-DF0cM8w8RdLB804vZTKkO_JUbYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
