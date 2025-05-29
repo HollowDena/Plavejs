@@ -135,7 +135,7 @@ fun LandingScreen(navController: NavController) {
                 Spacer(modifier = Modifier.height(32.dp))
 
                 Text(
-                    text = "DārzaPlatforma",
+                    text = "Pļāvējs",
                     style = MaterialTheme.typography.headlineLarge.copy(
                         fontWeight = FontWeight.ExtraBold,
                         color = Color.White,
@@ -210,7 +210,7 @@ fun LandingScreen(navController: NavController) {
                 ModernFeatureCard(
                     icon = Icons.Default.Person,
                     title = "Dārziniekiem",
-                    description = "Paplašiniet savu klientu bāzi un attīstiet biznesu",
+                    description = "Paplašiniet savu klientu bāzi un iegūstiet jaunas iespējas",
                     modifier = Modifier.weight(1f)
                 )
             }
